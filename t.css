@@ -1,0 +1,17 @@
+/* בסיעתא דשמיא */
+body{
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#cont{
+    background-color: aliceblue;
+    height: 30vw;
+    width: 30vw;
+    display: flex;
+    flex-direction: column; 
+    text-align: center;
+    padding: 5vw;
+    font-size: 4vw;
+}
